@@ -1,4 +1,4 @@
-# E-COMMERCE-SALES-ANALYSIS-DASHBOARD
+# E-COMMERCE SALES ANALYSIS DASHBOARD
 ## Introduction
 The dataset provides a detailed record of sales transactions includes essential information such as order details, customer demographics, product specifics, and financial data like sales, discounts, and profits. This dataset offers a rich opportunity for analysis, visualization, and the extraction of key insights to inform business strategies and decision-making processes.
 
@@ -7,6 +7,7 @@ The dataset provides a detailed record of sales transactions includes essential 
 - **Project Name:** Sales Analyst
 - **Dataset Type:** Excel Data
 - **Dataset Size:** 9995 records each
+- **Tools Use:** Excel
 
 ## Key Performance Indicators (KPIs)
 The project emphasizes six key performance indicators (KPIs) to gain insights into employee retention and related factors:
