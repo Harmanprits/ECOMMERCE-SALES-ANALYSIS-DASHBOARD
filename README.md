@@ -30,8 +30,12 @@ The project emphasizes six key performance indicators (KPIs) to gain insights in
 
 ## Project Insights
 
-This dataset offers opportunities for analyzing sales performance, profitability, customer behavior, product trends, and geographic patterns. Insights gained from this analysis can inform strategies for marketing, pricing, inventory management, and customer engagement. Additionally, developing an interactive dashboard could provide stakeholders with a user-friendly interface to monitor key metrics and make data-driven decisions efficiently.
+- This dataset offers opportunities for analyzing sales performance, profitability, customer behavior, product trends, and geographic patterns.
+- Insights gained from this analysis can inform strategies for marketing, pricing, inventory management, and customer engagement.
+- Additionally, developing an interactive dashboard could provide stakeholders with a user-friendly interface to monitor key metrics and make data-driven decisions efficiently.
 
 ## Conclusion
 
-In summary, the dataset offers a comprehensive view of sales transactions, providing valuable insights across various business facets such as sales trends, profitability, customer behavior, product performance, and regional dynamics. These insights serve as a foundation for informed decision-making, guiding strategies for marketing, pricing, inventory management, and customer engagement. Moreover, the development of an interactive dashboard presents an opportunity to distill complex data into actionable insights, empowering stakeholders to monitor key metrics effectively and drive business success in a competitive landscape.
+- The dataset offers a comprehensive view of sales transactions, providing valuable insights across various business facets such as sales trends, profitability, customer behavior, product performance, and regional dynamics.
+- These insights serve as a foundation for informed decision-making, guiding strategies for marketing, pricing, inventory management, and customer engagement.
+- Moreover, the development of an interactive dashboard presents an opportunity to distill complex data into actionable insights, empowering stakeholders to monitor key metrics effectively and drive business success in a competitive landscape.
