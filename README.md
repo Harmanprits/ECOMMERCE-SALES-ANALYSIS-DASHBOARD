@@ -10,7 +10,7 @@ The dataset provides a detailed record of sales transactions includes essential 
 - **Tools Use:** Excel
 
 ## Key Performance Indicators (KPIs)
-The project emphasizes six key performance indicators (KPIs) to gain insights into employee retention and related factors:
+The project emphasizes five key performance indicators (KPIs) to gain insights into employee retention and related factors:
 
 - Sales and Profit analysis
 - Category wise profit
