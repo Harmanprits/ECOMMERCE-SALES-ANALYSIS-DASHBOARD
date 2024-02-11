@@ -1,4 +1,4 @@
-# ECOMMERCE-SALES-ANALYSIS-DASHBOARD
+# E-COMMERCE-SALES-ANALYSIS-DASHBOARD
 ## Introduction
 The dataset provides a detailed record of sales transactions includes essential information such as order details, customer demographics, product specifics, and financial data like sales, discounts, and profits. This dataset offers a rich opportunity for analysis, visualization, and the extraction of key insights to inform business strategies and decision-making processes.
 
